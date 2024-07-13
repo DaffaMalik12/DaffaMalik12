@@ -1,4 +1,9 @@
-
+<h1>
+🧑‍💻 About Me
+<p>
+  Hi 👋 I am a UIN JAKARTA student who is passionate about web development, and this website is a platform to share my projects. With my educational background in computer science and my passion in designing and building attractive websites, I hope you can find inspiration and see my development as a web developer.
+</p>
+</h1>  
 <h1>
   Let's Connect and have a Chat!💬
 </h1>
