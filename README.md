@@ -1,5 +1,5 @@
 <h1>
-🧑‍💻 About Me
+🧑‍💻 About Me:
 </h1>  
 
 <p>
@@ -7,7 +7,7 @@
 </p>
 
 <h1>
-  Let's Connect and have a Chat!💬
+  🌐 Social Media:
 </h1>
 
 
@@ -28,7 +28,7 @@
 
 
 
-<h1> 💻 &nbsp;Tech Stack</h1>
+<h1> 💻 &nbsp;Tech Stack:</h1>
 <p align="left">
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" alt="vscode" width="45" height="45"/>
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original-wordmark.svg" alt="python" width="45" height="45"/>
