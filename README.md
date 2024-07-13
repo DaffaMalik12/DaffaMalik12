@@ -3,7 +3,7 @@
 </h1>  
 
 <p>
-    Hi 👋 I am a UIN JAKARTA student who is passionate about web development and android development, and this website is a platform to share my projects. With my educational background in Informatics Engineering and my passion in designing and building engaging websites, I hope you can find inspiration and see my progression as a web developer.
+   Hi 👋 I am a UIN JAKARTA student who is passionate about web development and android development, this website is a platform to share my projects. With my educational background in Informatics Engineering and my passion in designing and building attractive websites and applications, I hope you can find inspiration and see my development as a Programmer.
 </p>
 
 <h1>
