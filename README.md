@@ -33,23 +33,6 @@
 Hi 👋 I am a UIN JAKARTA student who is passionate about web development and android development. This profile is a platform to share my projects. With my educational background in Informatics Engineering and my passion in designing and building attractive websites and applications, I hope you can find inspiration and see my development as a Programmer.
 
 
----
-
-## 🌐 Social Media:
-<p align="left">
-  <a href="https://www.linkedin.com/in/muhammad-daffa-malik-akram/" target="_blank">
-    <img src="https://user-images.githubusercontent.com/46517096/166973395-19676cd8-f8ec-4abf-83ff-da8243505b82.png" alt="LinkedIn" height="40" style="margin-right:10px"/>
-  </a>
-  <a href="https://x.com/AkramDaffa3321" target="_blank">
-    <img src="/DaffaMalik12/Twitter.jpg" alt="Twitter" height="40" style="margin-right:10px"/>
-  </a>
-  <a href="https://www.instagram.com/muhamad_daffa_malik/" target="_blank">
-    <img src="https://user-images.githubusercontent.com/46517096/166974368-9798f39f-1f46-499c-b14e-81f0a3f83a06.png" alt="Instagram" height="40"/>
-  </a>
-</p>
-
----
-
 ## 💻 Tech Stack:
 <div align="center">
   
