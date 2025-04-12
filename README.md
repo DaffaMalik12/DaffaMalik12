@@ -103,7 +103,3 @@ Hi 👋 I am a UIN JAKARTA student who is passionate about web development and a
 </p>
 
 ---
-
-<div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=100&section=footer" />
-</div>
