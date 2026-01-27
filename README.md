@@ -126,23 +126,6 @@ const daffa = {
 
 ---
 
-## 🏆 GitHub Trophies
-
-<div align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=DaffaMalik12&theme=tokyonight&no-frame=true&no-bg=true&row=1&column=7"/>
-</div>
-
----
-
-## 💼 Featured Projects
-
-<div align="center">
-
-[![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=DaffaMalik12&repo=YOUR_REPO_1&theme=tokyonight&hide_border=true&bg_color=0D1117)](https://github.com/DaffaMalik12/YOUR_REPO_1)
-[![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=DaffaMalik12&repo=YOUR_REPO_2&theme=tokyonight&hide_border=true&bg_color=0D1117)](https://github.com/DaffaMalik12/YOUR_REPO_2)
-
-</div>
-
 ---
 
 ## 📈 Contribution Graph
