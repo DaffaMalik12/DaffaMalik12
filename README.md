@@ -154,22 +154,4 @@ const daffa = {
 
 ---
 
-### 🐍 Contribution Snake
 
-![Snake animation](https://github.com/DaffaMalik12/DaffaMalik12/blob/output/github-contribution-grid-snake-dark.svg)
-
----
-
-### ☕ Support My Work
-
-<a href="https://www.buymeacoffee.com/daffamalik" target="_blank">
-  <img src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" alt="Buy Me A Coffee" height="50px">
-</a>
-
----
-
-**💙 Thanks for visiting! Let's connect and build something amazing together!**
-
-<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=100&section=footer"/>
-
-</div>
