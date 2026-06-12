@@ -47,7 +47,7 @@ const daffa = {
 
 ---
 
-## 🛠️ Tech Arsenal
+## 🛠️ Tech Stack
 
 <details open>
 <summary><b>💻 Frontend Development</b></summary>
